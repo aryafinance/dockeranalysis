@@ -1,1 +1,4 @@
-# To ensure app dependencies are ported from your virtual environment/host machine into your container, run 'pip freeze > requirements.txt' in the terminal to overwrite this file
+protobuf==4.21.9
+pytds==1.8
+python_tds==1.11.0
+SQLAlchemy==1.4.32
